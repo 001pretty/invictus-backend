@@ -35,7 +35,7 @@ Application is responsive and mobile-friendly, includes sidedrawer. <br />
 Routing is handled on client side by 'react-router' and on invalid path, user is redirected to the home route. <br />
 <br/>
 
-## Table of content
+## Table of Contents
 
 - [Features](#features)
 - [Motivation](#motivation)
@@ -79,9 +79,9 @@ The idea behind building this application was to practice cloning an e-commerce 
 
 To run full application on your local machine follow these steps:
 
-1. Clone or download the backend from the [repository](https://github.com/777pretty/invictus-backend).
+1. Clone or download the backend from the [backend repository](https://github.com/777pretty/invictus-backend).
 
-2. Clone or download the frontend from the [repository](https://github.com/777pretty/invictus-frontend).
+2. Clone or download the frontend from the [frontend repository](https://github.com/777pretty/invictus-frontend).
 
 3. Move frontend folder named 'client' inside the backend folder.
 
